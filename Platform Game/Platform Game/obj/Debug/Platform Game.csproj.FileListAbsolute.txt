@@ -1,0 +1,11 @@
+C:\Users\kokot\Documents\Informatika\Platform Game\Platform Game\bin\Debug\Platform Game.exe.config
+C:\Users\kokot\Documents\Informatika\Platform Game\Platform Game\bin\Debug\Platform Game.exe
+C:\Users\kokot\Documents\Informatika\Platform Game\Platform Game\bin\Debug\Platform Game.pdb
+C:\Users\kokot\Documents\Informatika\Platform Game\Platform Game\obj\Debug\Platform Game.csproj.AssemblyReference.cache
+C:\Users\kokot\Documents\Informatika\Platform Game\Platform Game\obj\Debug\Platform Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\kokot\Documents\Informatika\Platform Game\Platform Game\obj\Debug\Platform_Game.Form1.resources
+C:\Users\kokot\Documents\Informatika\Platform Game\Platform Game\obj\Debug\Platform_Game.Properties.Resources.resources
+C:\Users\kokot\Documents\Informatika\Platform Game\Platform Game\obj\Debug\Platform Game.csproj.GenerateResource.cache
+C:\Users\kokot\Documents\Informatika\Platform Game\Platform Game\obj\Debug\Platform Game.csproj.CoreCompileInputs.cache
+C:\Users\kokot\Documents\Informatika\Platform Game\Platform Game\obj\Debug\Platform Game.exe
+C:\Users\kokot\Documents\Informatika\Platform Game\Platform Game\obj\Debug\Platform Game.pdb
